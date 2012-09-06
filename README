@@ -1,0 +1,7 @@
+This is a Windows Phone 7.1 project for finding the Weather Forecast based on your location.
+
+The repository shows two projects:
+Location Weather Forecast: Weather Forecast based on your geo-coordinates.
+Google Reverse Geocode: Reverse Address lookup based on your geo-coordinates using Google Map Javascript V3 API.
+
+Both projects runs in Visual Studio Express 2010.
