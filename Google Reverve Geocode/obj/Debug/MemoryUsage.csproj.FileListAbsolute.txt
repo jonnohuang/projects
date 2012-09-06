@@ -1,0 +1,52 @@
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\MemoryUsage\Bin\Debug\ApplicationIcon.png
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\MemoryUsage\Bin\Debug\Background.png
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\MemoryUsage\Bin\Debug\MemoryUsage.dll
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\MemoryUsage\Bin\Debug\MemoryUsage.pdb
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\MemoryUsage\Bin\Debug\AppManifest.xaml
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\MemoryUsage\Bin\Debug\MemoryUsage.xap
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\MemoryUsage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\MemoryUsage\obj\Debug\App.g.i.cs
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\MemoryUsage\obj\Debug\MainPage.g.i.cs
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\MemoryUsage\obj\Debug\MemoryUsage.g.resources
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\MemoryUsage\obj\Debug\MemoryUsage.dll
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\MemoryUsage\obj\Debug\MemoryUsage.pdb
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\MemoryUsage\obj\Debug\XapCacheFile.xml
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\Bin\Debug\ApplicationIcon.png
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\Bin\Debug\Background.png
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\Bin\Debug\MemoryUsage.dll
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\Bin\Debug\MemoryUsage.pdb
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\Bin\Debug\AppManifest.xaml
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\Bin\Debug\MemoryUsage.xap
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\obj\Debug\App.g.i.cs
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\obj\Debug\MainPage.g.i.cs
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\obj\Debug\MemoryUsage.g.resources
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\obj\Debug\MemoryUsage.dll
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\obj\Debug\MemoryUsage.pdb
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage\obj\Debug\XapCacheFile.xml
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage - Copy\Bin\Debug\ApplicationIcon.png
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage - Copy\Bin\Debug\Background.png
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage - Copy\Bin\Debug\MemoryUsage.dll
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage - Copy\Bin\Debug\MemoryUsage.pdb
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage - Copy\Bin\Debug\AppManifest.xaml
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage - Copy\Bin\Debug\MemoryUsage.xap
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage - Copy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage - Copy\obj\Debug\App.g.i.cs
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage - Copy\obj\Debug\MainPage.g.i.cs
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage - Copy\obj\Debug\MemoryUsage.g.resources
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage - Copy\obj\Debug\MemoryUsage.dll
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage - Copy\obj\Debug\MemoryUsage.pdb
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\MemoryUsage - Copy\obj\Debug\XapCacheFile.xml
+C:\Users\Jonno\Dropbox\COEN316\Project\Google Reverve Geocode\Bin\Debug\ApplicationIcon.png
+C:\Users\Jonno\Dropbox\COEN316\Project\Google Reverve Geocode\Bin\Debug\Background.png
+C:\Users\Jonno\Dropbox\COEN316\Project\Google Reverve Geocode\Bin\Debug\MemoryUsage.dll
+C:\Users\Jonno\Dropbox\COEN316\Project\Google Reverve Geocode\Bin\Debug\MemoryUsage.pdb
+C:\Users\Jonno\Dropbox\COEN316\Project\Google Reverve Geocode\Bin\Debug\AppManifest.xaml
+C:\Users\Jonno\Dropbox\COEN316\Project\Google Reverve Geocode\Bin\Debug\MemoryUsage.xap
+C:\Users\Jonno\Dropbox\COEN316\Project\Google Reverve Geocode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonno\Dropbox\COEN316\Project\Google Reverve Geocode\obj\Debug\App.g.i.cs
+C:\Users\Jonno\Dropbox\COEN316\Project\Google Reverve Geocode\obj\Debug\MainPage.g.i.cs
+C:\Users\Jonno\Dropbox\COEN316\Project\Google Reverve Geocode\obj\Debug\MemoryUsage.g.resources
+C:\Users\Jonno\Dropbox\COEN316\Project\Google Reverve Geocode\obj\Debug\MemoryUsage.dll
+C:\Users\Jonno\Dropbox\COEN316\Project\Google Reverve Geocode\obj\Debug\MemoryUsage.pdb
+C:\Users\Jonno\Dropbox\COEN316\Project\Google Reverve Geocode\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,28 @@
+G:\My Documents\SCU\EMGT336\Weather Forecast Sample\C#\sdkWeatherForecastCS\Bin\Debug\ApplicationIcon.png
+G:\My Documents\SCU\EMGT336\Weather Forecast Sample\C#\sdkWeatherForecastCS\Bin\Debug\Background.png
+G:\My Documents\SCU\EMGT336\Weather Forecast Sample\C#\sdkWeatherForecastCS\Bin\Debug\sdkWeatherForecastCS.dll
+G:\My Documents\SCU\EMGT336\Weather Forecast Sample\C#\sdkWeatherForecastCS\Bin\Debug\sdkWeatherForecastCS.pdb
+G:\My Documents\SCU\EMGT336\Weather Forecast Sample\C#\sdkWeatherForecastCS\Bin\Debug\AppManifest.xaml
+G:\My Documents\SCU\EMGT336\Weather Forecast Sample\C#\sdkWeatherForecastCS\Bin\Debug\sdkWeatherForecastCS.xap
+G:\My Documents\SCU\EMGT336\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\ResolveAssemblyReference.cache
+G:\My Documents\SCU\EMGT336\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\App.g.i.cs
+G:\My Documents\SCU\EMGT336\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\ForecastPage.g.i.cs
+G:\My Documents\SCU\EMGT336\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\MainPage.g.i.cs
+G:\My Documents\SCU\EMGT336\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\sdkWeatherForecastCS.g.resources
+G:\My Documents\SCU\EMGT336\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\sdkWeatherForecastCS.dll
+G:\My Documents\SCU\EMGT336\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\sdkWeatherForecastCS.pdb
+G:\My Documents\SCU\EMGT336\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\XapCacheFile.xml
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\Weather Forecast Sample\Weather Forecast Sample\C#\sdkWeatherForecastCS\Bin\Debug\ApplicationIcon.png
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\Weather Forecast Sample\Weather Forecast Sample\C#\sdkWeatherForecastCS\Bin\Debug\Background.png
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\Weather Forecast Sample\Weather Forecast Sample\C#\sdkWeatherForecastCS\Bin\Debug\sdkWeatherForecastCS.dll
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\Weather Forecast Sample\Weather Forecast Sample\C#\sdkWeatherForecastCS\Bin\Debug\sdkWeatherForecastCS.pdb
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\Weather Forecast Sample\Weather Forecast Sample\C#\sdkWeatherForecastCS\Bin\Debug\AppManifest.xaml
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\Weather Forecast Sample\Weather Forecast Sample\C#\sdkWeatherForecastCS\Bin\Debug\sdkWeatherForecastCS.xap
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\Weather Forecast Sample\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\Weather Forecast Sample\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\App.g.i.cs
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\Weather Forecast Sample\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\ForecastPage.g.i.cs
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\Weather Forecast Sample\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\MainPage.g.i.cs
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\Weather Forecast Sample\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\sdkWeatherForecastCS.g.resources
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\Weather Forecast Sample\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\sdkWeatherForecastCS.dll
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\Weather Forecast Sample\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\sdkWeatherForecastCS.pdb
+C:\Users\10102550\Documents\Personal\SCU\COEN316\Project\WP7\Weather Forecast Sample\Weather Forecast Sample\C#\sdkWeatherForecastCS\obj\Debug\XapCacheFile.xml
